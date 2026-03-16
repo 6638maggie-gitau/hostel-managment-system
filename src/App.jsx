@@ -5,6 +5,7 @@ import About from "./pages/About";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
 import Layout from "./Components/Layout";
+import Footer from "./Components/Footer";
 import Features from "./pages/Features";
 import Login from "./pages/Login";
 import Room from "./pages/Room";
@@ -12,11 +13,10 @@ import Room from "./pages/Room";
 const App =() => {
   return (
     <div className="bg-green-500">
-   git add .
-git commit -m "fix deployment"
-git push   <Router>
+     <Router>
         <Routes>
             <Route element={<Layout />} >
+            <Route element={<Footer />} />
             <Route path="/"element={<Home />} />
             <Route path="/about"element={<About />} />
             <Route path="/contact"element={<Contact />} />
