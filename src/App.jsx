@@ -1,10 +1,10 @@
 
-import Nav from "./componets/Nav";
+import Nav from "./Components/Nav";
 import { HashRouter as Router, Routes, Route} from "react-router-dom";
 import About from "./pages/About";
 import Home from "./pages/Home";
 import Contact from "./pages/Contact";
-import Layout from "./componets/Layout";
+import Layout from "./Components/Layout";
 import Features from "./pages/Features";
 import Login from "./pages/Login";
 import Room from "./pages/Room";
@@ -12,7 +12,9 @@ import Room from "./pages/Room";
 const App =() => {
   return (
     <div className="bg-green-500">
-      <Router>
+   git add .
+git commit -m "fix deployment"
+git push   <Router>
         <Routes>
             <Route element={<Layout />} >
             <Route path="/"element={<Home />} />
