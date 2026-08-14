@@ -179,30 +179,6 @@ git push origin feature/new-feature
 
 6. Open a Pull Request.
 
-## 📄 License
-
-This project is created for **learning and educational purposes**.
-
-You are welcome to explore the code and use it as inspiration for your own learning projects.
-
-## 👩‍💻 Author
-
-### Margaret Gitau
-
-Frontend Developer | React Enthusiast | Writer
-
-I enjoy building web applications, learning new technologies, solving programming problems, and creating digital experiences.
-
-### Technologies I Work With
-
-* React
-* JavaScript
-* Tailwind CSS
-* HTML
-* CSS
-* Git & GitHub
-* Python
-
 ---
 
 ⭐ **If you find this project useful or interesting, consider giving the repository a star!**
