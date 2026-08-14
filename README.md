@@ -135,20 +135,6 @@ This project helped me practice several important React concepts, including:
 * Event handling
 * Managing application state
 
-
-## 🐛 Challenges
-
-During development, I encountered challenges involving:
-
-* React component errors
-* Routing and navigation
-* Tailwind CSS styling
-* Component organization
-* Managing application state
-* Debugging unexpected UI behavior
-
-Solving these problems helped improve my problem-solving and debugging skills.
-
 ## 🔮 Future Improvements
 
 Possible improvements for future versions include:
@@ -163,22 +149,6 @@ Possible improvements for future versions include:
 * 🗄️ Backend integration
 * 🛢️ Database integration
 * 📱 Improved mobile experience
-
-## 📸 Screenshots
-
-Add screenshots of the application here.
-
-Example:
-
-```markdown
-![Home Page](./screenshots/home.png)
-
-![Hostel Page](./screenshots/hostel.png)
-
-![About Page](./screenshots/about.png)
-```
-
-Create a `screenshots` folder in the project if you want to include screenshots in your README.
 
 ## 🤝 Contributing
 
