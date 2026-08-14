@@ -68,7 +68,7 @@ hostel-management-system/
 └── README.md
 ```
 
-> **Note:** The exact folder and component names may vary depending on the current version of the project.
+
 
 ## 🚀 Getting Started
 
@@ -135,21 +135,6 @@ This project helped me practice several important React concepts, including:
 * Event handling
 * Managing application state
 
-## 📚 What I Learned
-
-While developing this project, I gained practical experience in:
-
-* Building applications using React
-* Creating reusable components
-* Organizing a React project
-* Implementing navigation with React Router
-* Managing state in React
-* Styling interfaces with Tailwind CSS
-* Debugging React errors
-* Working with Git and GitHub
-* Deploying and maintaining frontend projects
-
-One of the biggest lessons from this project was learning how to **debug problems instead of simply rewriting the code**. Working through routing, component, and styling issues helped me understand how the different parts of a React application work together.
 
 ## 🐛 Challenges
 
