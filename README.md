@@ -6,7 +6,7 @@ A modern and responsive **Hostel Management System** built with **React** and **
 
 The Hostel Management System was created to provide an organized and user-friendly platform for handling common hostel management activities.
 
-The project was also built as a practical way to strengthen my skills in **React, JavaScript, Tailwind CSS, component-based development, and React Router**.
+The project was  built as a practical way to strengthen my skills in **React, JavaScript, Tailwind CSS, component-based development, and React Router**.
 
 ## ✨ Features
 
