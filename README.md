@@ -4,7 +4,7 @@ A modern and responsive **Hostel Management System** built with **React** and **
 
 ## 📌 Overview
 
-The Hostel Management System was created to provide an organized and user-friendly platform for handling common hostel management activities.
+The Hostel Management System was created to provide an organized  user-friendly platform for handling common hostel management activities.
 
 ## ✨ Features
 
