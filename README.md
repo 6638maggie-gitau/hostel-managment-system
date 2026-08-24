@@ -123,7 +123,7 @@ Tailwind CSS makes it easier to create:
 This project helped me practice several important React concepts, including:
 
 * Functional components
-  
+*Props
 * React hooks
 * `useState`
 * `useContext`
