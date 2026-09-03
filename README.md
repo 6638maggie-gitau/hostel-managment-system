@@ -120,7 +120,7 @@ Tailwind CSS makes it easier to create:
 
 ## 🧩 React Concepts Used
 
-This project helped me practice several important React concepts, including:
+This project helped me practice several important React concepts, including
 
 * Functional components
 *Props
@@ -147,35 +147,5 @@ Possible improvements for future versions include:
 * 🗄️ Backend integration
 * 🛢️ Database integration
 * 📱 Improved mobile experience
-
-## 🤝 Contributing
-
-Contributions, suggestions, and improvements are welcome.
-
-If you would like to contribute:
-
-1. Fork the repository.
-2. Create a new branch.
-
-```bash
-git checkout -b feature/new-feature
-```
-
-3. Make your changes.
-4. Commit your changes.
-
-```bash
-git add .
-git commit -m "Add new feature"
-```
-
-5. Push the branch.
-
-```bash
-git push origin feature/new-feature
-```
-
-6. Open a Pull Request.
-
 ---
 
