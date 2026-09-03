@@ -119,9 +119,6 @@ Tailwind CSS makes it easier to create:
 * Mobile-friendly interfaces
 
 ## 🧩 React Concepts Used
-
-This project helped me practice several important React concepts, including
-
 * Functional components
 *Props
 * React hooks
