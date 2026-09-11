@@ -1,6 +1,6 @@
 # 🏨 Hostel Management System
 
-A modern and responsive **Hostel Management System** built with **React** and **Tailwind CSS**. The project provides a simple interface for managing hostel-related information and demonstrates the use of React components, routing, state management, and responsive UI design.
+A modern and responsive **Hostel Management System** built with **React** and **Tailwind CSS**. The project provides  interface for managing hostel-related information and demonstrates the use of React components, routing, state management, and responsive UI design.
 
 ## 📌 Overview
 
