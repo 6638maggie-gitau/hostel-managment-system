@@ -1,9 +1,9 @@
-import React from 'react'
+
 import { Link } from 'react-router-dom'
 
 const Login = () => {
   return (
-    <div className='min-h-screen flex items-center justify-center bg-gradient-r from-blue-900 to-blue-600'>
+    <div className='min-h-screen flex items-center justify-center bg-linear-to-r from-blue-900 to-blue-600'>
         <div className='bg-white w-full max-w-md p-8 rounded-2xl shadow-2xl'>
             <h2 className='text-2xl font-bold text-center text-gray-800 mb-6'>Welcom back!</h2>
             <form className='space-y-5'>
