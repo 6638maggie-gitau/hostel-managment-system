@@ -37,11 +37,10 @@ const Nav = () => {
               Features
             </Link>
 
-            <Link
-              to="/room"
-              className="hover:text-gray-300 transition"
+            <Link to="/student-rooms"
+                  className="hover:text-gray-300 transition"
             >
-              Room
+                   Room
             </Link>
 
             <Link
@@ -66,6 +65,7 @@ const Nav = () => {
             </Link>
 
             <Link to="/student-dashboard" className="hover:text-gray-300 transition">StudentDashboard</Link>
+            
 
           </div>
 

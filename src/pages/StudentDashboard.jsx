@@ -85,14 +85,12 @@ const StudentDashboard = () => {
           </h2>
 
           <div className="flex flex-wrap gap-4">
-
-            <Link
-              to="/student-rooms"
-              className="bg-blue-500 text-white px-5 py-3 rounded-lg hover:bg-blue-600"
-            >
+         
+           <Link to="/student-rooms"
+             className="bg-blue-500 text-white px-5 py-3 rounded-lg hover:bg-blue-600"
+>
               View Rooms
             </Link>
-
             <Link
               to="/my-booking"
               className="bg-green-500 text-white px-5 py-3 rounded-lg hover:bg-green-600"

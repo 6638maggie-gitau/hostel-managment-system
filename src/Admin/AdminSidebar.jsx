@@ -19,7 +19,7 @@ const AdminSidebar = () => {
         </Link>
 
         <Link
-          to="/room"
+          to="/student-rooms"
           className="block p-3 rounded hover:bg-gray-700"
         >
           Rooms
