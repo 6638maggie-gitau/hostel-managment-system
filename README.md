@@ -139,7 +139,6 @@ Possible improvements for future versions include:
 * 🛏️ Real-time room availability
 * 📋 Room allocation system
 * 💰 Hostel payment management
-* 📊 Admin dashboard
 * 🔔 Notifications
 * 🗄️ Backend integration
 * 🛢️ Database integration
