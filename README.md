@@ -136,7 +136,7 @@ Possible improvements for future versions include:
 
 * 🔐 User authentication and authorization
 * 👤 Student registration and login
-* 🛏️ Real-time room availability
+* 🛏️ Real-time  availability
 * 📋 Room allocation system
 * 💰 Hostel payment management
 * 🔔 Notifications
