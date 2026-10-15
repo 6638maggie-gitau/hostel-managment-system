@@ -22,8 +22,8 @@ The Hostel Management System was created to provide an organized and user-friend
 ### Frontend
 
 * **React.js**
-* **JavaScript 
-* **HTML5**
+* **JavaScript **
+* **HTML**
 * **CSS3**
 * **Tailwind CSS**
 
