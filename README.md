@@ -24,7 +24,7 @@ The Hostel Management System was created to provide an organized and user-friend
 * **React.js**
 * **JavaScript **
 * **HTML**
-* **CSS
+* **CSS**
 * **Tailwind CSS**
 
 ### Routing
